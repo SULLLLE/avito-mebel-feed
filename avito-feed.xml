@@ -4,8 +4,10 @@
     <Id>MB-ZARA</Id>
     <Address>Республика Дагестан, Махачкала</Address>
     <Category>Мебель и интерьер</Category>
+    <GoodsType>Кровати, диваны и кресла</GoodsType>
     <Condition>Новое</Condition>
-    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <AdType>Товар произведён мной</AdType>
     <Title>Диван-кровать ZARA + 2 кресла, раскладной, спальное место 90×220, экокожа, на заказ</Title>
     <Price>114000</Price>
     <Description><![CDATA[Комплект мягкой мебели ZARA — диван-тройка и два кресла в одном стиле. Днём это
@@ -53,8 +55,10 @@
     <Id>MB-ACMA</Id>
     <Address>Республика Дагестан, Махачкала</Address>
     <Category>Мебель и интерьер</Category>
+    <GoodsType>Кровати, диваны и кресла</GoodsType>
     <Condition>Новое</Condition>
-    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <AdType>Товар произведён мной</AdType>
     <Title>Диван-кровать ACMA + 2 кресла, комплект мягкой мебели, раскладной, на заказ</Title>
     <Price>124000</Price>
     <Description><![CDATA[Комплект мягкой мебели ACMA — диван и два кресла плюс две декоративные подушки.
@@ -100,8 +104,10 @@
     <Id>MB-STELLA</Id>
     <Address>Республика Дагестан, Махачкала</Address>
     <Category>Мебель и интерьер</Category>
+    <GoodsType>Кровати, диваны и кресла</GoodsType>
     <Condition>Новое</Condition>
-    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <AdType>Товар произведён мной</AdType>
     <Title>Диван-кровать STELLA + 2 кресла с ушами, раскладной, спальное 180×95, на заказ</Title>
     <Price>134000</Price>
     <Description><![CDATA[Комплект мягкой мебели STELLA — диван и два кресла с высокой «ушастой» спинкой.
@@ -152,8 +158,10 @@
     <Id>MB-BEST</Id>
     <Address>Республика Дагестан, Махачкала</Address>
     <Category>Мебель и интерьер</Category>
+    <GoodsType>Кровати, диваны и кресла</GoodsType>
     <Condition>Новое</Condition>
-    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <AdType>Товар произведён мной</AdType>
     <Title>Угловой диван-кровать BEST, механизм дельфин, ящик для белья, 340 см, на заказ</Title>
     <Price>144000</Price>
     <Description><![CDATA[Угловой диван BEST — большой модульный диван для гостиной на всю семью.
@@ -203,8 +211,10 @@
     <Id>MB-SAFINA</Id>
     <Address>Республика Дагестан, Махачкала</Address>
     <Category>Мебель и интерьер</Category>
+    <GoodsType>Кровати, диваны и кресла</GoodsType>
     <Condition>Новое</Condition>
-    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <AdType>Товар произведён мной</AdType>
     <Title>Банкетка САФИНА в прихожую и на кухню, для кафе и ресторана, мягкая, на заказ</Title>
     <Price>39000</Price>
     <Description><![CDATA[Банкетка САФИНА — изящная мягкая скамья с фигурной спинкой и вертикальной
